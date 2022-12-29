@@ -5,3 +5,6 @@ We can use this surge as a morse signal.
 
 What we have to do is read this surge as analog and then set a rythm.
 We have to sync the password to this rhythm.
+
+For details:
+Instagram: benrobotx
